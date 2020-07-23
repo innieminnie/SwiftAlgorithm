@@ -6,6 +6,17 @@
 //  Copyright © 2020 innie. All rights reserved.
 //
 
+/*
+Binary Search & Two Pointers
+
+Time Complexity : O(logn) for binary search (function findX) + O(k) for making array size of k
+Space Complexity : O(k) for array size of k
+
+Submission Detail:
+    Runtime: 520 ms, faster than 43.90% of Swift online submissions for Find K Closest Elements.
+    Memory Usage: 21.7 MB, less than 95.45% of Swift online submissions for Find K Closest Elements.
+*/
+
 import Foundation
 import XCTest
 
